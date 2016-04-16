@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/IanThorp/addition-IanThorp/issues"
   },
-  "homepage": "https://github.com/IanThorp/addition-IanThorp#readme"
+  "homepage": "https://github.com/IanThorp/addition-IanThorp#readme",
+  "devDependencies": {
+    "tap": "^5.7.1"
+  }
 }
