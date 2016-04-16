@@ -14,3 +14,8 @@ An addition node module
 ## Resources
 
 *none right now*
+
+## Contributors
+
+-Kevin Serrano (@Zanibas)
+he tried.
